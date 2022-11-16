@@ -1,0 +1,130 @@
+{"bandeiras":[
+  {
+      "pais": "senegal",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fsenegal.png?alt=media&token=9fa348da-1dff-4bee-8612-7639c56926ef"
+  },
+  {
+      "pais": "inglaterra",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Finglaterra.png?alt=media&token=5acedc28-a6a5-45b9-abf1-a0e560bcbcfc"
+  },
+  {
+      "pais": "catar",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fcatar.png?alt=media&token=3af1d386-aae3-4036-8d35-a566526c7235"
+  },
+  {
+      "pais": "franca",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Ffranca.png?alt=media&token=b6fff103-1b02-4fce-8bf3-c1522bc1a690"
+  },
+  {
+      "pais": "dinamarca",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fdinamarca.png?alt=media&token=016655cd-07b9-4d96-89b1-c73c1140fde0"
+  },
+  {
+      "pais": "mexico",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fmexico.png?alt=media&token=bed406fc-2de5-4baf-835d-2e5bb630d8e6"
+  },
+  {
+      "pais": "argentina",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fargentina.png?alt=media&token=5742253e-cf0d-4d92-bdda-cc72d06134fb"
+  },
+  {
+      "pais": "estadosunidos",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Festadosunidos.png?alt=media&token=f76bf40c-b45c-424c-bd60-6eca795aa86b"
+  },
+  {
+      "pais": "espanha",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fespanha.png?alt=media&token=ed141955-7b0d-40a1-a9c0-8a4bf3453320"
+  },
+  {
+      "pais": "marrocos",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fmarrocos.png?alt=media&token=10087000-1f7e-4ac6-b377-dbe8240e8a46"
+  },
+  {
+      "pais": "belgica",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fbelgica.png?alt=media&token=ffffc750-b74d-4795-a104-f493b35ec5dd"
+  },
+  {
+      "pais": "alemanha",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Falemanha.png?alt=media&token=ff1d3050-73ad-4119-90ee-88ee02574ad1"
+  },
+  {
+      "pais": "camaroes",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fcamaroes.png?alt=media&token=59fd2be0-7e06-489b-ba0c-0a2a28b20663"
+  },
+  {
+      "pais": "suica",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fsuica.png?alt=media&token=5202b5b8-c9ad-4790-81fc-c5cdca1d955a"
+  },
+  {
+      "pais": "paisdegales",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fpaisdegales.png?alt=media&token=c89ff9f7-d52b-48ed-8091-22ea8ad3a37d"
+  },
+  {
+      "pais": "coreiadosul",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fcoreiadosul.png?alt=media&token=f616bf2f-de74-4358-bfe1-4aad95a8bace"
+  },
+  {
+      "pais": "brasil",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fbrasil.png?alt=media&token=6f62a048-8d97-49cf-9b12-db8a64df98ba"
+  },
+  {
+      "pais": "australia",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Faustralia.png?alt=media&token=c4d99969-ea04-4a44-a0cc-1da69b95ac1e"
+  },
+  {
+      "pais": "portugal",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fportugal.png?alt=media&token=99eaaac7-5718-4fea-8c36-35f682eff152"
+  },
+  {
+      "pais": "costarica",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fcostarica.png?alt=media&token=47db1479-dc8b-4f32-9bac-ec89134d264c"
+  },
+  {
+      "pais": "canada",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fcanada.png?alt=media&token=4692302e-898c-4ded-b68d-2d122b4b0471"
+  },
+  {
+      "pais": "tunisia",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Ftunisia.png?alt=media&token=6c3f44ea-d4fc-4fdc-8133-d9eef072286b"
+  },
+  {
+      "pais": "uruguai",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Furuguai.png?alt=media&token=62526bb6-3407-4ec9-a461-a4d713d36cf3"
+  },
+  {
+      "pais": "holanda",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fholanda.png?alt=media&token=049254a1-472b-4fc0-bcb3-837a5816bf4d"
+  },
+  {
+      "pais": "japao",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fjapao.png?alt=media&token=3c2f9864-d638-48fc-b747-695271cf9fb5"
+  },
+  {
+      "pais": "ira",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fira.png?alt=media&token=8f023cf2-2429-4746-9f4c-597bfd504936"
+  },
+  {
+      "pais": "gana",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fgana.png?alt=media&token=eb829dcf-6dc4-41a5-8dda-22e66d93e31b"
+  },
+  {
+      "pais": "polonia",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fpolonia.png?alt=media&token=84c22ea9-4eb0-469d-b486-841e8b82885b"
+  },
+  {
+      "pais": "equador",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fequador.png?alt=media&token=637eca04-3fd6-47c9-b1f6-24bb736c4dc5"
+  },
+  {
+      "pais": "croacia",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fcroacia.png?alt=media&token=e7f407ed-8c43-4a5d-80d1-f5d1afe16448"
+  },
+  {
+      "pais": "arabiasaudita",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Farabiasaudita.png?alt=media&token=958a4e45-f22d-49e6-b0b3-4b853eb53e39"
+  },
+  {
+      "pais": "servia",
+      "bandeira": "https://firebasestorage.googleapis.com/v0/b/bolao2022-182da.appspot.com/o/flags%2Fservia.png?alt=media&token=891e6871-55b3-4655-bff4-8342c7c66375"
+  }
+]}

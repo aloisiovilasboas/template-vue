@@ -1,0 +1,4 @@
+verificar como é feito login automatico
+colocar o db no store
+verificar se o usuario ja foi cadastrado
+endereco dinamico com o ID do usuario
